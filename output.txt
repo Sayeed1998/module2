@@ -1,6 +1,1 @@
-Enter two digit:
-23 
- 17
- 60
- 6.666667
- 2
+You got gpa 2
